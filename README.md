@@ -1,9 +1,9 @@
 <h2 align="center">Hi, I'm Fadwa</h2>
-<p align="center" style="color:#f28b25;">Web Developer • Student • Technology Learner</p>
+<p align="center" style="color:#1e90ff;">Web Developer • Student • Technology Learner</p>
 
 ---
 
-## 🟧 About Me
+## 🔵 About Me
 - SMK Class XII • Rekayasa Perangkat Lunak  
 - Belajar: **PHP, MySQL, HTML, CSS, Python**  
 - Suka bikin project web sederhana  
@@ -20,11 +20,18 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=faddwaaaa&show_icons=true&theme=vue&icon_color=F28B25&title_color=F28B25&text_color=333" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faddwaaaa&layout=compact&theme=vue&title_color=F28B25&text_color=333" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=faddwaaaa&show_icons=true&theme=vue&icon_color=1e90ff&title_color=1e90ff&text_color=333" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faddwaaaa&layout=compact&theme=vue&title_color=1e90ff&text_color=333" />
 </div>
 
 ---
 
-## 🪐 Quote:
+## 🐍 GitHub Contribution Snake
+<p align="center">
+  <img src="https://github.com/faddwaaaa/faddwaaaa/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🔵 Quote
 > *"not perfect, but improving — and that's enough."*
