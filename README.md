@@ -26,12 +26,5 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake
-<p align="center">
-  <img src="https://github.com/faddwaaaa/faddwaaaa/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 🔵 Quote
 > *"not perfect, but improving — and that's enough."*
