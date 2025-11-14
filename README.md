@@ -1,8 +1,3 @@
-<!-- BANNER -->
-<p align="center">
-  <img src="https://i.imgur.com/qfR4xSQ.png" width="100%" />
-</p>
-
 <!-- GIF -->
 <p align="center">
   <img src="https://i.pinimg.com/originals/b7/6c/8a/b76c8a82a3f3ef02b1b5c802a9f63032.gif" width="230">
