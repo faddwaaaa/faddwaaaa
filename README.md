@@ -6,8 +6,7 @@
 ## 🔵 About Me
 - SMK Class XII • Rekayasa Perangkat Lunak  
 - Belajar: **PHP, MySQL, HTML, CSS, Python**  
-- Suka bikin project web sederhana  
-- Fokus ke hal-hal yang clean, minimalis, dan fungsional  
+- Suka bikin project web sederhana 
 
 ---
 
