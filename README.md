@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Fadwa</h2>
+<h2 align="center">Hi, I'm Fadwa Pamulasih</h2>
 <p align="center" style="color:#1e90ff;">Web Developer • Student • Technology Learner</p>
 
 ---
