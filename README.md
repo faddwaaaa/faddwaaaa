@@ -26,7 +26,7 @@ Berikut beberapa project yang pernah saya kerjakan:
 
 ### 🌐 1. Website Pariwisata  
 Website sederhana tentang destinasi wisata NTT.  
-**Tech:** HTML, CSS, JS  
+**Tech:** PHP, MySQL, HTML, CSS, JS  
 **Fitur:** Desain responsif, card tour, galeri gambar.
 
 ### 🛒 2. Sistem Checkout Toko Buku  
@@ -34,10 +34,14 @@ Sistem pemesanan buku dengan form alamat, ringkasan pesanan, dan upload bukti tr
 **Tech:** PHP, MySQL  
 **Fitur:** Validasi form, session user, dynamic checkout.
 
-### 🧮 3. Aplikasi Hitung Kombinasi & Permutasi  
-Program Python untuk membantu perhitungan dasar matematika.  
-**Tech:** Python  
-**Fungsi:** Kombinasi, permutasi, validasi input.
+### 🤖 3. Project Machine Learning – Klasifikasi Buah  
+Aplikasi machine learning sederhana untuk mengklasifikasikan jenis buah berdasarkan fitur dataset.  
+**Tech:** Python, pandas, matplotlib, scikit-learn  
+**Fitur:**  
+- Preprocessing dataset  
+- Visualisasi data  
+- Training model classification (model dasar bawaan sklearn)  
+- Menyimpan model ke `.joblib` untuk digunakan kembali  
 
 > Jika ingin lihat live demo atau source code, silakan cek repository di akun saya!
 
