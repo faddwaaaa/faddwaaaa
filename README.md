@@ -24,7 +24,7 @@ Fokus utama saya saat ini adalah membangun website sederhana dan terus mengemban
 ## 📁 Featured Projects
 Berikut beberapa project yang pernah saya kerjakan:
 
-### 🌐 1. Landing Page Wisata  
+### 🌐 1. Website Pariwisata  
 Website sederhana tentang destinasi wisata NTT.  
 **Tech:** HTML, CSS, JS  
 **Fitur:** Desain responsif, card tour, galeri gambar.
