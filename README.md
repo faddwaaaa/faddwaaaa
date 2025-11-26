@@ -19,10 +19,9 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="165" src="https://github-readme-stats-git-masterorg.vercel.app/api?username=faddwaaaa&show_icons=true&theme=vue&icon_color=1e90ff&title_color=1e90ff&text_color=333&cache_seconds=86400" />
-  <img height="165" src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=faddwaaaa&layout=compact&theme=vue&title_color=1e90ff&text_color=333&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats-git-masterorg.vercel.app/api?username=faddwaaaa&show_icons=true&theme=vue&icon_color=1e90ff&title_color=1e90ff&text_color=333" />
+  <img height="165" src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=faddwaaaa&layout=compact&theme=vue&title_color=1e90ff&text_color=333" />
 </div>
-
 
 ---
 
